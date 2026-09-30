@@ -7,7 +7,7 @@
 
 ## Judul Proyek
 
-Repository Proyek Pemrograman Aplikasi Bergerak
+**ResepKu – Aplikasi Kumpulan Resep Masakan**
 
 ## Deskripsi
 
