@@ -7,13 +7,12 @@
 
 ## Judul Proyek
 
-**ResepKu – Aplikasi Kumpulan Resep Masakan**
+**Pembuatan dan Pengelolaan Repository Proyek Pemrograman Aplikasi Bergerak**
 
 ## Deskripsi
 
-ResepKu merupakan aplikasi mobile yang menyediakan kumpulan resep masakan
-yang dapat membantu pengguna mencari dan melihat berbagai resep dengan
-mudah.
+Repository ini digunakan untuk menyimpan source code, assets, dan dokumentasi
+selama proses pengembangan proyek Pemrograman Aplikasi Bergerak.
 
 ## Teknologi/Framework
 
