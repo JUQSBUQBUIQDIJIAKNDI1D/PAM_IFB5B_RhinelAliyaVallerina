@@ -16,7 +16,7 @@ selama proses pengembangan proyek Pemrograman Aplikasi Bergerak.
 
 ## Teknologi/Framework
 
-Flutter dan Dart *(sesuaikan apabila teknologi proyek yang akan dikembangkan berbeda).*
+Flutter dan Dart 
 
 ## Repository
 
