@@ -11,7 +11,9 @@
 
 ## Deskripsi
 
-Repository ini digunakan untuk menyimpan source code, assets, dan dokumentasi selama proses pengembangan proyek mata kuliah Pemrograman Aplikasi Bergerak.
+ResepKu merupakan aplikasi mobile yang menyediakan kumpulan resep masakan
+yang dapat membantu pengguna mencari dan melihat berbagai resep dengan
+mudah.
 
 ## Teknologi/Framework
 
